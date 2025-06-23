@@ -1,0 +1,8 @@
+
+# Ignore the CLI directory and Task-Screen-Shots directory
+cli/
+Task-Screen-Shots/
+
+#ignore any other directories that are not needed in the repository
+node_modules/
+
