@@ -27,7 +27,7 @@ To view the "Amazon CPU Product Item" project locally, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/itsmepraksh/COSC-HACATHONS.git](https://github.com/itsmepraksh/COSC-HACATHONS.git)  
+    git clone [https://github.com/itsmepraksh/COSC-HACATHONS.git]  
     ```
 2.  **Navigate into the repository:**
     ```bash
@@ -42,10 +42,8 @@ To view the "Amazon CPU Product Item" project locally, follow these steps:
     *(If `Project-1` is still in a subfolder and you want to run it from there, the path would be `open Project-1/index.html`)*
 
 ## 🌐 Live Demo
-
-> You can add a link to your live demo here (e.g., Vercel, Netlify, or GitHub Pages URL).
->
-> **Live URL:** [https://challengeone-six.vercel.app/](https://challengeone-six.vercel.app/) (Once deployed and working)
+  
+> **Live URL:** [https://challengeone-six.vercel.app/] 
 
 ## ✅ Status
 
