@@ -107,6 +107,55 @@ To view the "Weather Watch Dashboard" project locally, follow these steps:
 
 ---
 
+
+
+## 🐶 Dog Image Gallery
+
+This project is a dynamic web application that allows users to explore various dog images. Users can either view a collection of 5 random dog images or search for images of a specific dog breed. It provides a quick and engaging way to see different dog breeds.
+
+### ✨ Features of this Project
+
+-   View 5 random dog images.
+-   Search for 5 images of a specific dog breed.
+-   Real-time fetching and display of images.
+-   Basic error handling for invalid breeds or API issues.
+-   Clear loading indicators.
+
+### 🛠️ Technologies Used
+
+-   **HTML5** (Structure)
+-   **Tailwind CSS** (Modern Styling & Responsiveness)  
+-   **Vanilla JavaScript** (Logic, API Calls, DOM Manipulation)
+-   **Dog API** (For Dog Image Data)
+
+### 💻 How to Run (for Dog Image Gallery)
+
+To view the "Dog Image Gallery" project locally, follow these steps:
+
+1.  **Clone the repository:**
+    ```bash
+    git clone [https://github.com/itsmepraksh/COSC-HACATHONS.git](https://github.com/itsmepraksh/COSC-HACATHONS.git)
+    ```
+2.  **Navigate to the Project-3 directory:**
+    ```bash
+    cd COSC-HACATHONS/Project-3
+    ```
+3.  **Open the project in your browser:**
+    ```bash
+    open index.html # For macOS/Linux
+    start index.html # For Windows
+    ```
+
+### 🌐 Live Demo
+
+> **Live URL:** [**https://cosc-hacathons-b6sh.vercel.app/**]
+
+## ✅ Status
+
+**Dog Image Gallery:** Task Completed
+
+---
+
 ## 🙌 Acknowledgements
 
 Thanks to the COSC Hackathon team for the opportunity to participate and build something exciting with pure frontend tech.
