@@ -169,6 +169,68 @@ To view the "Dog Image Gallery" project locally, follow these steps:
 
 ---
 
+ 
+# 🚀 COSC Commit Counter
+
+**COSC Commit Counter** is a simple tool designed to simulate tracking community progress during HackWeek by counting commits. It provides a live, real-time update of the commit count on the website.
+
+---
+
+## ✨ Features of this Project
+
+- Displays commit count starting from `0`.
+- **Increment**: Simulates a new commit being made, increasing the count.
+- **Decrement**: Allows for reverting a commit, ensuring the count does not go below 0.
+- **Reset**: Resets the commit count to 0, simulating the end of a HackWeek day.
+- Clean and responsive user interface.
+
+---
+
+## 🛠️ Technologies Used
+
+- **HTML5** (Structure)
+- **CSS** (Styling)
+- **Vanilla JavaScript** (Logic & DOM Manipulation)
+
+---
+
+## 💻 How to Run (for COSC Commit Counter)
+
+To view the **COSC Commit Counter** project locally, follow these steps:
+
+1. **Clone the repository**:
+
+   ```bash
+   git clone https://github.com/itsmepraksh/COSC-HACATHONS.git
+   ````
+
+2. **Navigate to the Project-4 directory**:
+
+   ```bash
+   cd COSC-HACATHONS/Project-4
+   ```
+
+3. **Open the project in your browser**:
+
+   * On macOS/Linux:
+
+     ```bash
+     open index.html
+     ```
+
+   * On Windows:
+
+     ```bash
+     start index.html
+     ```
+
+---
+
+## ✅ Status
+
+**COSC Commit Counter**: Task Completed ✅
+ 
+
 ## 🙌 Acknowledgements
 
 Thanks to the COSC Hackathon team for the opportunity to participate and build something exciting with pure frontend tech.
