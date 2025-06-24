@@ -128,6 +128,19 @@ This project is a dynamic web application that allows users to explore various d
 -   **Vanilla JavaScript** (Logic, API Calls, DOM Manipulation)
 -   **Dog API** (For Dog Image Data)
 
+### API Workflow
+
+1. Get the free API, API that I used in the project is from [https://dog.ceo/dog-api/](https://dog.ceo/dog-api/). I set up the API in the form so it gives me an array of 5 items as data.
+
+2. Used `fetch` for retrieving the data from the backend of the API, and used Promises to fetch the data.
+
+3. Used fetched data which is nothing but JSON format data, so used `map` to convert array data into single elements and put them inside the HTML content.
+
+4. Used event listeners to get the user instruction and give them their desired output.
+
+5. Also tried handling the errors using `try-catch`, `setTimeout`, etc.
+
+
 ### 💻 How to Run (for Dog Image Gallery)
 
 To view the "Dog Image Gallery" project locally, follow these steps:
