@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Word Wizard - Dictionary App</title>
+    <script src="https://cdn.tailwindcss.com"></script> 
+</head>
+
+<body class="font-sans flex justify-center items-center min-h-screen m-0 bg-gray-100 text-gray-800">
+    <div class="container bg-white p-8 rounded-lg shadow-md text-center w-[90%] max-w-md">
+        <h1 class="text-4xl font-bold text-gray-600 mb-6">Word Wizard</h1>
+        <div class="search-box flex justify-center mb-6">
+            <input type="text" id="word-input" placeholder="Enter a word..."
+                class="flex-grow p-3 border border-gray-300 rounded-md mr-2 text-lg focus:outline-none focus:ring-2 focus:ring-blue-500">
+            <button id="search-button"
+                class="bg-blue-600 text-white px-4 py-3 rounded-md cursor-pointer active:scale-[0.9] text-lg hover:bg-blue-700 transition duration-300">
+                Search
+            </button>
+        </div>
+        <div id="result"
+            class="text-left mt-6 p-5 bg-gray-50 border border-gray-200 rounded-md min-h-[120px] overflow-y-auto">
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
