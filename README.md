@@ -230,6 +230,71 @@ To view the **COSC Commit Counter** project locally, follow these steps:
 
 **COSC Commit Counter**: Task Completed ✅
  
+---
+ 
+# 🧙‍♂️ Word Wizard - Dictionary App
+
+**Turn Any Word into Wisdom!**  
+A simple, effective dictionary web app providing instant word definitions, audio pronunciations, synonyms, and antonyms. Built with **HTML**, **Tailwind CSS**, and **JavaScript**, it leverages the **Free Dictionary API** for real-time data.
+
+---
+
+## ✨ Features
+
+- 🔍 Instant search with comprehensive definitions. 
+- 📱 Clean, responsive UI with informative loading and error feedback.
+
+---
+
+## 🚀 Technologies Used
+
+- HTML5  
+- Tailwind CSS  
+- JavaScript (ES6+)  
+- Free Dictionary API  
+
+---
+
+## 💡 How to Use
+
+1. Enter a word in the input box.  
+2. Click **"Search"** or press **Enter**.  
+3. View the detailed definition.
+
+---
+
+## ⚙️ Setup (Local Development)
+
+Clone the repository:
+
+```bash
+git clone https://github.com/itsmepraksh/COSC-HACATHONS.git
+   
+cd COSC-HACATHONS/Project-6
+````
+
+Open `index.html` in your web browser.
+
+---
+
+## 🌐 API Reference
+
+This application uses the **Free Dictionary API**.
+No API key is required.
+
+**Endpoint:**
+
+```
+https://api.dictionaryapi.dev/api/v2/entries/en/{word}
+```
+ 
+---
+
+## ✅ Status
+
+**Word Wizard - Dictionary App**: Task Completed ✅
+ 
+
 
 ## 🙌 Acknowledgements
 
