@@ -294,6 +294,47 @@ https://api.dictionaryapi.dev/api/v2/entries/en/{word}
 
 **Word Wizard - Dictionary App**: Task Completed ✅
  
+---
+
+
+# 🎯 Squad Goals: Build Your Dream Cricket Team
+
+A responsive single-page website showcasing a cricket team and star players with detailed stats.
+
+---
+
+## ✨ Features
+
+* 🏆 Team branding with logo and slogan
+* 🎴 Responsive player cards grid
+* 📊 Click player cards for detailed stats (Strike Rate, Matches, Jersey, Best Performance)
+* 📱 Fully responsive and clean design
+
+---
+
+## 🛠️ Technologies
+
+* 🌐 HTML
+* 💡 JavaScript
+* 🎨 Tailwind CSS
+
+---
+
+## 🚀 How to Run Locally
+
+1. Download or clone the repo
+2. Open `index.html` in your browser
+
+No build tools needed — just open and enjoy!
+
+--- 
+
+## ✅ Status
+
+Project completed and ready!
+
+--- 
+
 
 
 ## 🙌 Acknowledgements
